@@ -1,7 +1,7 @@
 live link : https://ammfahim.github.io/new_assignment_five/
 Repo Link: https://github.com/AmmFahim/new_assignment_five
 
-My practised repo ( Where i practice my full project ) {https://github.com/AmmFahim/new_assignment_five}
+My practised repo ( Where i practice my full project ) {https://github.com/AmmFahim/assignment-five}
 DevBoard
 Blogs
 Question-1: What are the different ways to select an element in the DOM?
